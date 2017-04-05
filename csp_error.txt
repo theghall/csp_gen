@@ -1,0 +1,1046 @@
+(index):25 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/themes/Builder-Cohen/lib/builder-core/favicons/builder.ico' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):27 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/themes/Builder-Cohen/lib/builder-core/css/reset.css' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):28 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/themes/Builder-Cohen-Custom/style.css' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):29 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/uploads/it-file-cache/builder-layouts/526fce1e51a3a.css?version=540c6fac099f1621140fbc7e18183741' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):30 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/themes/Builder-Cohen-Custom/style-responsive.css' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):31 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/themes/Builder-Cohen-Custom/style-mobile.css' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):32 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/themes/Builder-Cohen/lib/builder-core/css/structure.css?ver=2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,3…talic|Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):45 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-ATMNZ35YmQ2HM7psNAZ5mE6ZWXZeuT0n1vIytqCnnrw='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):45 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-aAQeSpE24DK4M+d4ZtCrDP42kAadFwwW18foQsyquc8='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):78 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-xWYi63zwA087HKdivxEr6hucmWJsz+3YW+YNDeg6B1s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/eFRpvGLEW31oiexbYNx7Y_esZW2xOQ-xsNqO47m55DA.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/GtRkRNTnri0g82CjKnEB0Q.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/dPJ5r9gl3kK6ijoeP1IRsvY6323mHUZFJMgTvxaG2iE.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/EsvMC5un3kjyUhB9ZEPPwg.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/UyBMtLsHKBKXelqf4x7VRQ.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/1YwB1sO8YE1Lyjf12WNiUA.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/ObQr5XYcoH0WBoUxiaYK3_Y6323mHUZFJMgTvxaG2iE.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/H2DMvhDLycM56KNuAtbJYA.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/R4a6fty3waPci7C44H8AjvY6323mHUZFJMgTvxaG2iE.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/tI4j516nok_GrVf4dhunkg.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/muRcAtdNYlnTj3NeuakxChTbgVql8nDJpwnrE27mub0.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/9TBVFLzQ3GUZLG8FZ4yrEfesZW2xOQ-xsNqO47m55DA.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/XNVd6tsqi9wmKNvnh5HNEBJtnKITppOI_IvcXXDNrsc.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/2HG_tEPiQ4Z6795cGfdivFtXRa8TVwTICgirnJhmVJw.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/YMOYVM-eg6Qs9YzV9OSqZfesZW2xOQ-xsNqO47m55DA.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/PLygLKRVCQnA5fhu3qk5fQ.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/AcvTq8Q0lyKKNxRlL28RnxJtnKITppOI_IvcXXDNrsc.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/HkF_qI1x_noxlxhrhMQYEFtXRa8TVwTICgirnJhmVJw.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/81X-1TO5y4aMK2PPy9kFwxJtnKITppOI_IvcXXDNrsc.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/VNUH7ZAcagYBWsAiBBCEY1tXRa8TVwTICgirnJhmVJw.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6nrpPmMW7T3WCII-UZW2GGCw.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6nqAAODQ6hKuKTT6yBk7tJss.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6nhLwFvNxpkIoVzlXSkPSYkA.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6nk4GofcKVZz6wtzX_QUIqsI.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/RFda8w1V0eDZheqfcyQ4EK-j2U0lmluP9RWlSytm3ho.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/RFda8w1V0eDZheqfcyQ4EJX5f-9o1vgP2EXwfjgl7AY.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/RFda8w1V0eDZheqfcyQ4ED0LW-43aMEzIO6XUTLjad8.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/RFda8w1V0eDZheqfcyQ4EOgdm0LZdjqr5-oayXSOefg.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6nrPaLDTSXeXFRL0dx0NiHII.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6ntkZ6ofoXFVR94fBb90XSvU.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6nuIaMZP5eRGvEWe_CNIU_oY.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6nnNuWYKPzoeKl5tYj8yhly0.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6npRmMktGnN9fECZcESJ2wdY.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6nhYk6kXjxbl9hCl_j54B6tY.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6nu8B3NNHiE7lEpFTE0KxUWk.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6ntDLwwZd-mS_8JqJ_KGXwxs.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/EYh7Vl4ywhowqULgRdYwIFvxabc8-Ua_u_bDyl2V6ao.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/EYh7Vl4ywhowqULgRdYwII_1JgVyIQZ7vlaYT5eo8zo.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/EYh7Vl4ywhowqULgRdYwIJpID8tihKRMKfpfDQ5OzSE.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/EYh7Vl4ywhowqULgRdYwIHM1hBkL4m68a-ReB_y0NYc.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/So5lHxHT37p2SS4-t60SlJX7FfjVuZf3W7tKvrYzIk8.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/So5lHxHT37p2SS4-t60SlOb988d5RHZc66psPc8fYGQ.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/So5lHxHT37p2SS4-t60SlMAbIeegqMtwkwn2ZHUR4Nk.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/So5lHxHT37p2SS4-t60SlBMBlNeli-0RcAdOFWWLdxQ.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/EYh7Vl4ywhowqULgRdYwIEVUTRPtBn3BSc_rW_ryx7U.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/EYh7Vl4ywhowqULgRdYwIDaggPqPUlqZtH2DnDrcMQE.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/EYh7Vl4ywhowqULgRdYwIOR3LJ09PnibSpWhv21tZ8w.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/EYh7Vl4ywhowqULgRdYwIEcqRxak6Wc5LUVz-l064SE.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/EYh7Vl4ywhowqULgRdYwICR62gPmgX9pXMEmx1A9y0c.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/EYh7Vl4ywhowqULgRdYwIMbbw6pOSxajs_BxQ1hzVho.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/EYh7Vl4ywhowqULgRdYwIOSQfM42FHfzkXTnQR6vRvg.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/EYh7Vl4ywhowqULgRdYwIN4rWrnaUG5GaGDO0TOZR8c.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+d @ (index):80
+(index):80 [Report Only] Refused to load the script 'http://localhost/site-import/wp-includes/js/wp-emoji-release.min.js?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+e @ (index):80
+(index):82 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-OyKg6OHgnmapAcgq002yGA58wB21FOR7EcTwPWSs54E='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):96 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/pdf-print/css/style.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):97 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/photo-gallery/css/bwg_frontend.css?ver=1.3.35' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):98 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/photo-gallery/css/font-awesome/font-awesome.css?ver=4.6.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):99 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.css?ver=1.3.35' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):100 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/photo-gallery/css/sumoselect.css?ver=3.0.2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):101 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/product-catalog/style/catalog-all.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):102 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/product-catalog/style/catalog-carousel-style.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):103 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/product-catalog/style/style2-os.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):104 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/product-catalog/style/lightbox.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):105 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/product-catalog/style/css/hugeiticons.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):106 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/utubevideo-gallery/css/front_style.min.css?ver=1.9.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):107 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-Nq7DlOF3i1viGfgPVmV+oPOuYTrznD1vKdJ3OmDd6Lw='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):110 [Report Only] Refused to load the stylesheet 'http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):111 [Report Only] Refused to load the stylesheet 'http://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):112 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/wordpress-simple-paypal-shopping-cart/wp_shopping_cart_style.css?ver=4.3.2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):113 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/social-media-by-lazy-cat-themes/lib/css/style.css?ver=1.0.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):114 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/social-media-by-lazy-cat-themes/lib/vendor/font-awesome/css/font-awesome.min.css?ver=4.5.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):115 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=2.5.6' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):116 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/sassy-social-share/admin/css/sassy-social-share-svg.css?ver=2.5.6' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):117 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/templates/dark/style.css?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):118 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/templates/default/style.css?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):119 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/templates/standard/style.css?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):120 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/templates/thumbnails/style.css?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-includes/js/jquery/jquery.js?ver=1.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+jquery-migrate.min.js?ver=1.4.1:2 JQMIGRATE: Migrate is installed, version 1.4.1
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/photo-gallery/js/bwg_frontend.js?ver=1.3.35' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):124 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-x4y5UcJG9mE3KI6a90+JrtSaxvvV5zVVPh8H2yNuMZE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=3.0.2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/photo-gallery/js/jquery.mobile.js?ver=1.3.35' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.3.35' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.js?ver=0.4.1' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):133 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-qz9Y5g3bPL1f0EA5HwthoVxXEyQQj0iI9b/NJ+6VPgE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/photo-gallery/js/bwg_gallery_box.js?ver=1.3.35' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/product-catalog/js/jquery.cycle2.js?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/product-catalog/js/jquery.cycle2.carousel.js?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/social-media-by-lazy-cat-themes/lib/js/popup_center.js?ver=1.0.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):149 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-R+u+svHiEvNKmulNs7XqzBNLhPOU62K/l7jehyYCIpg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):177 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2016/08/cropped-favicon-32x32.png' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):178 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2016/08/cropped-favicon-192x192.png' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):179 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2016/08/cropped-favicon-180x180.png' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):390 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):391 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):392 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):397 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):398 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):399 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):404 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):405 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):406 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):411 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):412 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):413 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):418 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):419 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):420 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):427 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):428 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):429 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):434 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):435 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):436 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):441 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):442 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):443 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):448 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):449 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):450 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):455 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):456 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):457 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):464 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):465 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):466 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):471 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):472 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):473 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):478 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):479 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):480 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):485 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):486 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):487 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):492 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):493 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):494 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):501 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):502 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):503 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):508 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):509 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):510 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):515 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):516 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):517 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):522 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-eg0lP+kLRcYt16jV6OPwN6WpyI1eUwmyTy4iLT6D9GI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):523 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-TnZKNtvmUoWTAAyM37KLP1vUTeEpZmOX2jMqcgBvPHk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):524 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-y7/9qXCqN3eLezqN+ubUivEdTmv2fHTGzAMx/kyAkNI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):532 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-Si8NImxpRiiOqeFpbEhsazTg9JtalpTGNW4+7lAt7Ng='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/02/Website-LOGO-in-BANNER.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/IMG_3983.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/IMG_3986-300x235.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/IMG_3984a-300x225.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/IMG_3983-300x238.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2016/12/download-150x150.png' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20170104/61403/100/1483559415.05.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20170104/61403/100/1483559733.78.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160830/61403/100/1472599890.02.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160723/61403/100/1469313040.31.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160730/61403/100/1469887444.76.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160903/61403/100/1472937488.02.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160723/61403/100/1469313868.56.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20161201/61403/100/1480606826.84.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160723/61403/100/1469313764.72.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20161201/61403/100/1480606474.47.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160723/61403/100/1469313679.93.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160723/61403/100/1469313799.48.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160723/61403/100/1469313461.45.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160827/61403/100/1472313633.62.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160827/61403/100/1472313668.11.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160723/61403/100/1469313404.44.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160814/61403/100/1471187819.57.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160723/61403/100/1469313623.4.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://lm.inlinkz.com/thumbs/20160723/61403/100/1469313589.82.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://localhost/site-import/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://localhost/site-import/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://localhost/site-import/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://localhost/site-import/wp-content/plugins/product-catalog/style/src/iconFont.woff' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://localhost/site-import/wp-content/plugins/product-catalog/style/src/iconFont.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://localhost/site-import/wp-content/plugins/product-catalog/style/src/iconFont.ttf' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://maxcdn.bootstrapcdn.com/font-awesome/latest/fonts/fontawesome-webfont.woff2?v=4.7.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://maxcdn.bootstrapcdn.com/font-awesome/latest/fonts/fontawesome-webfont.woff?v=4.7.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://maxcdn.bootstrapcdn.com/font-awesome/latest/fonts/fontawesome-webfont.ttf?v=4.7.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://localhost/site-import/wp-content/plugins/social-media-by-lazy-cat-themes/lib/vendor/font-awesome/fonts/fontawesome-webfont.woff2?v=4.5.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://localhost/site-import/wp-content/plugins/social-media-by-lazy-cat-themes/lib/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.5.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://localhost/site-import/wp-content/plugins/social-media-by-lazy-cat-themes/lib/vendor/font-awesome/fonts/fontawesome-webfont.ttf?v=4.5.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/IMG_3983.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/IMG_3986-300x235.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/IMG_3984a-300x225.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/IMG_3983-300x238.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'https://static.inlinkz.com/ppr.js' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://localhost/site-import/wp-content/plugins/social-media-by-lazy-cat-themes/lib/vendor/font-awesome/fonts/fontawesome-webfont.woff2?v=4.5.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/1YwB1sO8YE1Lyjf12WNiUA.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/RFda8w1V0eDZheqfcyQ4EOgdm0LZdjqr5-oayXSOefg.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/EsvMC5un3kjyUhB9ZEPPwg.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6nk4GofcKVZz6wtzX_QUIqsI.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+2jquery.js?ver=1.12.4:3 [Report Only] Refused to load the stylesheet 'http://lm.inlinkz.com/css/il.css' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(anonymous) @ jquery.js?ver=1.12.4:3
+(index):544 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):545 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):546 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):547 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):548 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):549 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):550 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):551 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):552 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):553 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):554 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):555 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):556 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):557 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):585 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-g/F2sGQWm3NP8Kc0z3gVq3UtG02zeHraV6t2BHekBkQ='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/EverydayHero2CARDRECIPE-300x300.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/sab3.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/sab3a.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/IMG_3984-300x300.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2016/07/join_demo_dec0116_us-768x322.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/PP_A-Sara-Thing_sharable-social-image-1-235x300.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/plugins/pdf-print/images/print.gif' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/March-LIVETeamMtg.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/March-YTLIVE.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/March-FBLIVE.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2017/03/March-Online-Order-Thank-You-Card-150x150.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):586 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-65rTi5iqbjnX89IOKCyh40mXG/26Z4wWyeASWh1tx2s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):605 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-biLFinpqYMtWHmXfkA1BPeCY0/fNt46SAZ+BBk5YUog='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+about:blank:1 The Content Security Policy 'default-src 'none';' was delivered in report-only mode, but does not specify a 'report-uri'; the policy will have no effect. Please either add a 'report-uri' directive, or deliver the policy via the 'Content-Security-Policy' header.
+(index):633 [Report Only] Refused to frame 'https://www.youtube.com/embed/DeQyL55NAA4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'frame-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ppr.js:1 [Report Only] Refused to load the script 'http://lm.inlinkz.com/js/easyXDM.js' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+t @ ppr.js:1
+(index):727 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-0qVM5A/IuzXIegbyxgLpivu64Z1p0IuMyFyAdER9efo='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/themes/Builder-Cohen/lib/builder-core/lib/responsive/js/jquery.fitvids-max-width-modification.js?ver=1.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://malsup.github.com/images/spinner.gif' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'https://malsup.github.com/images/spinner.gif' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/themes/Builder-Cohen/lib/builder-core/lib/responsive/js/init-fitvids.js?ver=1.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201714' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/lato/v13/H2DMvhDLycM56KNuAtbJYA.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/So5lHxHT37p2SS4-t60SlBMBlNeli-0RcAdOFWWLdxQ.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the font 'http://fonts.gstatic.com/s/merriweather/v15/ZvcMqxEwPfh2qDWBPxn6nnNuWYKPzoeKl5tYj8yhly0.woff2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'font-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+4jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-Wi3+8jbn12vus9Oq4FOqEUCOpuRG3clBaVvLZZ2b9Fs='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-JSpSAItCshDARuOh1HLcLc81AMKArPi8idKshZbkeKw='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/product-catalog/js/catalog-all.js?ver=1.0.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://malsup.github.io/images/spinner.gif' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/product-catalog/js/jquery.colorbox.js?ver=1.0.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+jquery.colorbox.js:13 Uncaught ReferenceError: lightbox_html is not defined
+    at jquery.colorbox.js:13
+    at jquery.colorbox.js:1093
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/product-catalog/js/jquery.hugeitmicro.min.js?ver=1.0.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-SzGXedj8zlALTsZ3Eew9GZy0Ufxh5P/o3fnwZHY2bso='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(anonymous) @ jquery.js?ver=1.12.4:3
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/product-catalog/js/jquery.elevateZoom-3.0.8.min.js?ver=1.0.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/product-catalog/js/elevateZoomParams.js?ver=1.0.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):769 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-+06u6awDulK6paBXSf5ZH5ylPps2IHTJ25qERSYNTEk='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/utubevideo-gallery/js/frontend.min.js?ver=1.9.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/themes/Builder-Cohen/js/custom_jquery_additions.js?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=2.5.6' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.min.js?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.carousel.min.js?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.swipe.min.js?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.tile.min.js?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.video.min.js?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/templates/dark/script.js?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/templates/thumbnails/script.js?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/js/client.js?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-includes/js/wp-embed.min.js?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):787 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rkTSkYq/Kgc2PbLJ6zA014ZwIu4spzlmGHARqaLgOn4='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the script 'http://localhost/site-import/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.1.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+2(index):1 [Report Only] Refused to load the image 'https://s.w.org/images/core/emoji/2.2.1/svg/1f642.svg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+jquery.fitvids-max-width-modification.js?ver=1.0:41 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-36xOpWfVfFnFxJe0SjVkdLBLz77QkprDxIUsGEwGxY4='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+$.fn.fitVidsMaxWidthMod @ jquery.fitvids-max-width-modification.js?ver=1.0:41
+jquery.js?ver=1.12.4:3 The Content Security Policy 'default-src 'none';' was delivered in report-only mode, but does not specify a 'report-uri'; the policy will have no effect. Please either add a 'report-uri' directive, or deliver the policy via the 'Content-Security-Policy' header.
+(anonymous) @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to frame 'https://www.youtube.com/embed/DeQyL55NAA4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'frame-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(anonymous) @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 The Content Security Policy 'default-src 'none';' was delivered in report-only mode, but does not specify a 'report-uri'; the policy will have no effect. Please either add a 'report-uri' directive, or deliver the policy via the 'Content-Security-Policy' header.
+(anonymous) @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to frame 'https://www.youtube.com/embed/DeQyL55NAA4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'frame-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(anonymous) @ jquery.js?ver=1.12.4:3
+easyXDM.js:1 [Report Only] Refused to execute JavaScript URL because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+A @ easyXDM.js:1
+2easyXDM.js:1 The Content Security Policy 'default-src 'none';' was delivered in report-only mode, but does not specify a 'report-uri'; the policy will have no effect. Please either add a 'report-uri' directive, or deliver the policy via the 'Content-Security-Policy' header.
+A @ easyXDM.js:1
+easyXDM.js:1 [Report Only] Refused to execute JavaScript URL because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+A @ easyXDM.js:1
+(index):1 [Report Only] Refused to frame 'http://lm.inlinkz.com/js/cors/?xdm_e=http%3A%2F%2Flocalhost&xdm_c=default7999&xdm_p=1' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'frame-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-8Vq3mbgM/qK/PBZLYaBTQ2LHxHpq+YT1SIkuQmJLGC8='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bTpIfzBEU5cibbIm6OfZeMO/IPpuIaGJxHgx+TFqHHM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-b11D2zyUx1GZ6XHuGiQc3galZfmpVApJF9brqwCsK1E='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/img/control_start.png' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-jcev3Yyxto6V0ZL3MAcjF1QHeKE2tlf8jCEVcCaJGFM='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-CDs+xFw5uMoNgtE5XIrz5GXgs3O+/NFkYK2IK/vKSBE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-rwLobCZ18XAxizN4wmKT8T4ii3SO1GZVzwayJllyk8s='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-19hDYw9gWHtOAMR+zMc6T4vG8beTmS8kcFmZ2xANxJg='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+jquery.js?ver=1.12.4:3 [Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-bSoYuq6ivc9mSVWyH8JlqmEVCNQ2HqLmxv/ruraeG94='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+ja @ jquery.js?ver=1.12.4:3
+19(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/img/action-gear.png' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20170104/61403/100/1483559415.05.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20170104/61403/100/1483559733.78.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160830/61403/100/1472599890.02.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160723/61403/100/1469313040.31.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160730/61403/100/1469887444.76.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160903/61403/100/1472937488.02.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160723/61403/100/1469313868.56.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20161201/61403/100/1480606826.84.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160723/61403/100/1469313764.72.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20161201/61403/100/1480606474.47.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160723/61403/100/1469313679.93.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160723/61403/100/1469313799.48.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160723/61403/100/1469313461.45.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160827/61403/100/1472313633.62.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160827/61403/100/1472313668.11.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160723/61403/100/1469313404.44.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160814/61403/100/1471187819.57.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160723/61403/100/1469313623.4.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://lm.inlinkz.com/thumbs/20160723/61403/100/1469313589.82.jpg' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2016/08/cropped-favicon-192x192.png' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/uploads/2016/08/cropped-favicon-32x32.png' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the image 'http://localhost/site-import/wp-content/themes/Builder-Cohen/lib/builder-core/favicons/builder.ico' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'img-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/themes/Builder-Cohen/lib/builder-core/css/reset.css' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/themes/Builder-Cohen-Custom/style.css' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,3…talic|Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/uploads/it-file-cache/builder-layouts/526fce1e51a3a.css?version=540c6fac099f1621140fbc7e18183741' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/themes/Builder-Cohen-Custom/style-responsive.css' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/themes/Builder-Cohen-Custom/style-mobile.css' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/themes/Builder-Cohen/lib/builder-core/css/structure.css?ver=2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/pdf-print/css/style.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/photo-gallery/css/bwg_frontend.css?ver=1.3.35' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/photo-gallery/css/font-awesome/font-awesome.css?ver=4.6.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.css?ver=1.3.35' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/photo-gallery/css/sumoselect.css?ver=3.0.2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/product-catalog/style/catalog-all.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/product-catalog/style/catalog-carousel-style.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/product-catalog/style/style2-os.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/product-catalog/style/lightbox.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/product-catalog/style/css/hugeiticons.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/utubevideo-gallery/css/front_style.min.css?ver=1.9.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css?ver=4.7.3' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/wordpress-simple-paypal-shopping-cart/wp_shopping_cart_style.css?ver=4.3.2' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/social-media-by-lazy-cat-themes/lib/css/style.css?ver=1.0.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/social-media-by-lazy-cat-themes/lib/vendor/font-awesome/css/font-awesome.min.css?ver=4.5.0' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=2.5.6' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/sassy-social-share/admin/css/sassy-social-share-svg.css?ver=2.5.6' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/templates/dark/style.css?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/templates/default/style.css?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/templates/standard/style.css?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://localhost/site-import/wp-content/plugins/cyclone-slider-2/templates/thumbnails/style.css?ver=2.12.4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+(index):1 [Report Only] Refused to load the stylesheet 'http://lm.inlinkz.com/css/il.css' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+
