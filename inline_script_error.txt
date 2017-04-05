@@ -1,0 +1,2 @@
+(index):45 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "default-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-ATMNZ35YmQ2HM7psNAZ5mE6ZWXZeuT0n1vIytqCnnrw='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+
