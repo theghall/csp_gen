@@ -5,8 +5,10 @@ require 'byebug'
 DIRECTIVES = {:default_src => '', :font_src => '', :frame_src => '', :img_src => '', :script_src => '', :style_src => ''}
 
 def get_error_type(line)
-  errors = %w{font frame image inline script stylesheet}
-  directive_index = {:inline => :default_src, :font => :font_src, :frame => :frame_src, :image => :img_src, :stylesheet => :style_src, :script => :script_src}
+  errors = %w{font frame image script style}
+  directive_index = {:font => :font_src, :frame => :frame_src, \
+                     :image => :img_src, :style => :style_src, \
+                     :script => :script_src}
 
   error_type = :unknown
  
@@ -20,11 +22,16 @@ def get_error_type(line)
   error_type
 end
 
+# returns unsafe inline if inline
 def get_filename(line)
-  # the first '' enclosed text should be the filename
-  split = line.split('\'')
+  if line.include?('inline')
+    filename = 'unsafe inline'
+  else
+    # the first '' enclosed text should be the filename
+     split = line.split('\'')
 
-  filename = split[1]
+    filename = split[1]
+  end
 end
 
 def parse_error(line)
@@ -33,7 +40,12 @@ def parse_error(line)
   if type != :default
     if type != :unknown
       file = get_filename(line)
-      DIRECTIVES[type] << file + '; '
+      if file != 'unsafe inline'
+        DIRECTIVES[type] << file + '; '
+      else
+        # Easier to see unsafe inline is there
+        DIRECTIVES[type].prepend(file + '; ') unless DIRECTIVES[type].include?('unsafe inline')
+      end
     end
   else
     # handle default_src
@@ -51,3 +63,5 @@ File.open(fn,'r') do |csp_file|
   end
 end
 
+byebug
+p DIRECTIVES
