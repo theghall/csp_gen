@@ -2,7 +2,7 @@
 #
 require 'byebug'
 
-DIRECTIVES = {:default_src => '', :font_src => '', :frame_src => '', :img_src => '', :script_src => '', :style_src => ''}
+DIRECTIVES = {:default_src => 'none', :font_src => '', :frame_src => '', :img_src => '', :script_src => '', :style_src => ''}
 
 def get_error_type(line)
   errors = %w{font frame image script style}
@@ -22,29 +22,52 @@ def get_error_type(line)
   error_type
 end
 
+def shorten_inlinkz_thumb(line)
+  return line unless line.include?('inlinkz.com/thumbs')
+
+  split = line.split('/')
+
+  split[0..3].join('/')
+end
+
 # returns unsafe inline if inline
-def get_filename(line)
+def get_filename(line, domain)
   if line.include?('inline')
-    filename = 'unsafe inline'
+    filename = '\'unsafe inline\''
+  elsif line.include?(domain)
+    filename = '\'self\''
   else
     # the first '' enclosed text should be the filename
      split = line.split('\'')
 
-    filename = split[1]
+    filename = shorten_inlinkz_thumb(split[1])
   end
 end
 
-def parse_error(line)
+def has_non_file_option(file)
+  options = ['*', 'deny', 'none', 'unsafe inline', 'self']
+
+  found = false
+
+  options.each do |opt|
+    found = file.include?(opt)
+    break if found
+  end
+  
+  found
+end
+
+def parse_error(line, domain, ofn)
   type = get_error_type(line)
   
   if type != :default
     if type != :unknown
-      file = get_filename(line)
-      if file != 'unsafe inline'
-        DIRECTIVES[type] << file + '; '
+      file = get_filename(line, domain)
+      if !has_non_file_option(file)
+        DIRECTIVES[type] << file + '; ' unless DIRECTIVES[type].include?(file)
       else
-        # Easier to see unsafe inline is there
-        DIRECTIVES[type].prepend(file + '; ') unless DIRECTIVES[type].include?('unsafe inline')
+        # Easier to see directives at start
+        DIRECTIVES[type].prepend(file + '; ') unless DIRECTIVES[type].include?(file)
       end
     end
   else
@@ -52,16 +75,38 @@ def parse_error(line)
   end
 end
 
-fn = ARGV[0]
+def gen_csp_policy(ofn)
+  File.open(ofn, 'w') do |csp_file|
 
-File.open(fn,'r') do |csp_file|
+    print('Content-Security-Policy-Report-Only\n')
+
+    DIRECTIVES.each_key do |key|
+      file_options = DIRECTIVES[key]
+
+      split = file_options.split(';')
+
+      csp_file.puts("    #{key.to_s}:")
+
+      split[0..-2].each do |fopt|
+        csp_file.puts('      ' + fopt) 
+      end
+
+      csp_file.puts('      ' + split[-1] + ';')
+    end
+  end
+end
+
+domain = ARGV[0]
+ifn = ARGV[1]
+ofn = ARGV[2]
+
+File.open(ifn,'r') do |csp_file|
 
   while line = csp_file.gets
     line.chomp!.strip!
     puts line
-    parse_error(line) unless line == ''
+    parse_error(line, domain, ofn) unless line == ''
   end
-end
 
-byebug
-p DIRECTIVES
+  gen_csp_policy(ofn)
+end
