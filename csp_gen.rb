@@ -2,11 +2,16 @@
 #
 require 'byebug'
 
-DIRECTIVES = {:default_src => 'none', :font_src => '', :frame_src => '', :img_src => '', :script_src => '', :style_src => ''}
+DIRECTIVES = {:default_src => "'none'", :font_src => '', :child_src => '', \
+              :img_src => '', :script_src => '', :style_src => '', \
+              :base_uri => "'self'", :connect_src => "'self'", :form_action => "'self'", \
+              :frame_ancestors => "'self'", :object_src => "'self'", \
+              :plugin_types => 'application/pdf', :report_uri => "'self'", :sandbox => "'self'"}
 
 def get_error_type(line)
-  errors = %w{font frame image script style}
-  directive_index = {:font => :font_src, :frame => :frame_src, \
+  # Spaces will be around that which is refused
+  errors = [" font ", " frame ", " image ", " script ", " style"]
+  directive_index = {:font => :font_src, :frame => :child_src, \
                      :image => :img_src, :style => :style_src, \
                      :script => :script_src}
 
@@ -14,7 +19,7 @@ def get_error_type(line)
  
   errors.each do |error|
     if line.include?(error)
-      error_type = directive_index[error.to_sym]
+      error_type = directive_index[error.strip.to_sym]
       break
     end
   end
@@ -27,25 +32,25 @@ def shorten_inlinkz_thumb(line)
 
   split = line.split('/')
 
-  split[0..3].join('/')
+  split[0..3].join('/') + '/'
 end
 
-# returns unsafe inline if inline
 def get_filename(line, domain)
   if line.include?('inline')
-    filename = '\'unsafe inline\''
+    filename = '\'unsafe-inline\''
   elsif line.include?(domain)
     filename = '\'self\''
   else
     # the first '' enclosed text should be the filename
      split = line.split('\'')
 
+    # :TODO Strip Querys from end of filenames
     filename = shorten_inlinkz_thumb(split[1])
   end
 end
 
 def has_non_file_option(file)
-  options = ['*', 'deny', 'none', 'unsafe inline', 'self']
+  options = ['*', 'deny', 'none', 'unsafe-inline', 'self']
 
   found = false
 
@@ -67,6 +72,7 @@ def parse_error(line, domain, ofn)
         DIRECTIVES[type] << file + '; ' unless DIRECTIVES[type].include?(file)
       else
         # Easier to see directives at start
+        byebug if DIRECTIVES[type].nil?
         DIRECTIVES[type].prepend(file + '; ') unless DIRECTIVES[type].include?(file)
       end
     end
@@ -78,21 +84,27 @@ end
 def gen_csp_policy(ofn)
   File.open(ofn, 'w') do |csp_file|
 
-    print('Content-Security-Policy-Report-Only\n')
+    dir_spacing = ' ' * 4
+    opt_spacing = ' ' * 6
+
+    csp_file.puts('Header set Content-Security-Policy-Report-Only "\\')
 
     DIRECTIVES.each_key do |key|
       file_options = DIRECTIVES[key]
 
       split = file_options.split(';')
 
-      csp_file.puts("    #{key.to_s}:")
+      # hash key cannot have '-' in it
+      csp_file.puts(dir_spacing + "#{key.to_s.gsub('_','-')}" + " \\")
 
       split[0..-2].each do |fopt|
-        csp_file.puts('      ' + fopt) 
+        csp_file.puts(opt_spacing + fopt + " \\") 
       end
 
-      csp_file.puts('      ' + split[-1] + ';')
+      csp_file.puts(opt_spacing + split[-1] + "; \\")
     end
+
+    csp_file.puts(opt_spacing + '"')
   end
 end
 
@@ -110,3 +122,6 @@ File.open(ifn,'r') do |csp_file|
 
   gen_csp_policy(ofn)
 end
+
+byebug
+p DIRECTIVES
